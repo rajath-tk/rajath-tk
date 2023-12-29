@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajath Thomas Kurian</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring full stack developer and passionate problem solver</h3>
 
 - 🌱 I’m currently learning **Web development, Competitive Programming**
 
