@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Web development, Competitive Programming**
 
-- 💬 Ask me about **Python, C/C++, HTML/CSS, ReactJS, MongoDB**, MySQL
+- 💬 Ask me about **Python, C/C++, HTML/CSS, ReactJS, MongoDB, MySQL**
 
 - 📫 How to reach me:
 
