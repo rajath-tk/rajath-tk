@@ -4,9 +4,7 @@
 
 - 💬 Ask me about **Python, C/C++, HTML/CSS, ReactJS, MongoDB**
 
-- 📫 How to reach me **rajath.kurian@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me:
 <p align="left">
 <a href="https://linkedin.com/in/rajath-kurian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajath-kurian" height="30" width="40" /></a>
 <a href="https://instagram.com/rajath.tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajath.tk" height="30" width="40" /></a>
