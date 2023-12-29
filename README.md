@@ -5,7 +5,7 @@
 - 💬 Ask me about **Python, C/C++, HTML/CSS, ReactJS, MongoDB**
 
 - 📫 How to reach me:
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-rajath--kurian-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rajath-kurian) [![Instagram](https://img.shields.io/badge/Instagram-rajath.tk-orange?style=flat&logo=instagram)](https://instagram.com/rajath.tk)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-rajath--kurian-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rajath-kurian) [![Instagram](https://img.shields.io/badge/Instagram-rajath.tk-orange?style=flat&logo=instagram)](https://instagram.com/rajath.tk)
 
 
 <h3 align="left">Languages and Tools:</h3>
